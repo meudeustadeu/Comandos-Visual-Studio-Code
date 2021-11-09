@@ -1,7 +1,7 @@
 # Comandos-Visual-Studio-Code
 
 <h1>Geral<h1>
-<color = red>Ctrl + Shift + P, paleta de comando F1 Show<br>
+Ctrl + Shift + P, paleta de comando F1 Show<br>
 Ctrl + P Quick Open, vá para o arquivo ...<br>
 Ctrl + Shift + N Nova janela / instância<br>
 Ctrl + Shift + W Fechar janela / instância<br>
@@ -10,56 +10,56 @@ Ctrl + K Ctrl + S Atalhos de teclado<br>
 
 
 <h1>Edição básica<h1>
-Ctrl + X Linha de corte (seleção vazia)
-Ctrl + C Copiar linha (seleção vazia)
-Alt + ↑ / ↓ Mover linha para cima / baixo
-Shift + Alt + ↓ / ↑ Copiar linha para cima / baixo
-Ctrl + Shift + K Excluir linha
-Ctrl + Enter Inserir linha abaixo
-Ctrl + Shift + Enter Inserir linha acima
-Ctrl + Shift + \ Ir para o suporte correspondente
-Ctrl +] / [linha Indent / outdent
-Home / End Ir para o começo / fim da linha
-Ctrl + Home Ir para o início do arquivo
-Ctrl + End Ir para o final do arquivo
-Ctrl + ↑ / ↓ Linha de rolagem para cima / baixo
-Alt + PgUp / PgDn Rola a página para cima / baixo
-Ctrl + Shift + [Dobre (colapse) a região
-Ctrl + Shift +] Desdobrar (uncollapse) região
-Ctrl + K Ctrl + [Dobre (reduza) todas as sub-regiões
-Ctrl + K Ctrl +] Desdobra (uncollapse) todas as sub-regiões
-Ctrl + K Ctrl + 0 Dobre (reduza) todas as regiões
-Ctrl + K Ctrl + J Desdobra (uncollapse) todas as regiões
-Ctrl + K Ctrl + C Adicionar comentário de linha
-Ctrl + K Ctrl + U Remover comentário de linha
-Ctrl + / Alternar comentário de linha
-Shift + Alt + A Alternar comentário do bloco
-Alt + Z Toggle quebra automática de palavras
+Ctrl + X Linha de corte (seleção vazia)<br>
+Ctrl + C Copiar linha (seleção vazia)<br>
+Alt + ↑ / ↓ Mover linha para cima / baixo<br>
+Shift + Alt + ↓ / ↑ Copiar linha para cima / baixo<br>
+Ctrl + Shift + K Excluir linha<br>
+Ctrl + Enter Inserir linha abaixo<br>
+Ctrl + Shift + Enter Inserir linha acima<br>
+Ctrl + Shift + \ Ir para o suporte correspondente<br>
+Ctrl +] / [linha Indent / outdent<br>
+Home / End Ir para o começo / fim da linha<br>
+Ctrl + Home Ir para o início do arquivo<br>
+Ctrl + End Ir para o final do arquivo<br>
+Ctrl + ↑ / ↓ Linha de rolagem para cima / baixo<br>
+Alt + PgUp / PgDn Rola a página para cima / baixo<br>
+Ctrl + Shift + [Dobre (colapse) a região<br>
+Ctrl + Shift +] Desdobrar (uncollapse) região<br>
+Ctrl + K Ctrl + [Dobre (reduza) todas as sub-regiões<br>
+Ctrl + K Ctrl +] Desdobra (uncollapse) todas as sub-regiões<br>
+Ctrl + K Ctrl + 0 Dobre (reduza) todas as regiões<br>
+Ctrl + K Ctrl + J Desdobra (uncollapse) todas as regiões<br>
+Ctrl + K Ctrl + C Adicionar comentário de linha<br>
+Ctrl + K Ctrl + U Remover comentário de linha<br>
+Ctrl + / Alternar comentário de linha<br>
+Shift + Alt + A Alternar comentário do bloco<br>
+Alt + Z Toggle quebra automática de palavras<br>
 
 Navegação
-Ctrl + T Mostrar todos os símbolos
-Ctrl + G Ir para linha ...
-Ctrl + P Ir para arquivo ...
+Ctrl + T Mostrar todos os símbolos<br>
+Ctrl + G Ir para linha ...<br>
+Ctrl + P Ir para arquivo ...<br>
 Ctrl + Shift + O Ir para o símbolo ...
-Ctrl + Shift + M Mostrar painel de problemas
-F8 Ir para o próximo erro ou aviso
-Shift + F8 Ir para erro ou aviso anterior
-Ctrl + Shift + Tab Navegar pelo histórico do grupo de editor
-Alt + ← / → Retroceder / avançar
-Ctrl + M Toggle Tab move o foco
+Ctrl + Shift + M Mostrar painel de problemas<br>
+F8 Ir para o próximo erro ou aviso<br>
+Shift + F8 Ir para erro ou aviso anterior<br>
+Ctrl + Shift + Tab Navegar pelo histórico do grupo de editor<br>
+Alt + ← / → Retroceder / avançar<br>
+Ctrl + M Toggle Tab move o foco<br>
 
 
-Pesquise e substitua
-Ctrl + F Encontrar
-Ctrl + H Substituir
-F3 / Shift + F3 Encontrar próximo / anterior
-Alt + Enter Seleciona todas as ocorrências de Encontrar correspondência
-Ctrl + D Adicionar seleção ao próximo Encontrar jogo
-Ctrl + K Ctrl + D Move a última seleção para a próxima Find match
-Alt + C / R / W Alternar maiúsculas / minúsculas / regex / palavra inteira
+<h1>esquise e substitua<h1>
+Ctrl + F Encontrar<br>
+Ctrl + H Substituir<br>
+F3 / Shift + F3 Encontrar próximo / anterior<br>
+Alt + Enter Seleciona todas as ocorrências de Encontrar correspondência<br>
+Ctrl + D Adicionar seleção ao próximo Encontrar jogo<br>
+Ctrl + K Ctrl + D Move a última seleção para a próxima Find match<br>
+Alt + C / R / W Alternar maiúsculas / minúsculas / regex / palavra inteira<br>
 
 
-Multi-cursor e seleção
+<h1>Multi-cursor e seleção<h1>
 Alt + Clique no cursor Inserir
 Ctrl + Alt + ↑ / ↓ Inserir cursor acima / abaixo
 Ctrl + U Desfazer a última operação do cursor
