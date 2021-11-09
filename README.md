@@ -9,7 +9,7 @@ Ctrl +, configurações do usuário<br>
 Ctrl + K Ctrl + S Atalhos de teclado<br>
 
 
-Edição básica
+<h1>Edição básica<h1>
 Ctrl + X Linha de corte (seleção vazia)
 Ctrl + C Copiar linha (seleção vazia)
 Alt + ↑ / ↓ Mover linha para cima / baixo
