@@ -1,7 +1,7 @@
 # Comandos-Visual-Studio-Code
 
 <h1>Geral<h1>
-Ctrl + Shift + P, paleta de comando F1 Show<br>
+<color = red>Ctrl + Shift + P, paleta de comando F1 Show<br>
 Ctrl + P Quick Open, vá para o arquivo ...<br>
 Ctrl + Shift + N Nova janela / instância<br>
 Ctrl + Shift + W Fechar janela / instância<br>
